@@ -54,8 +54,8 @@ src/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
-   cd your-portfolio
+   git clone https://github.com/Naveenkumarmasabathula/Portfolio.git
+   cd Portfolio
    ```
 
 2. **Install Dependencies**
@@ -181,14 +181,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Naveen Kumar**
 
-- 🌐 [Portfolio](https://your-portfolio-site.com)
+- 🌐 [Portfolio](https://portfolio-five-nu-5p4ett36ug.vercel.app/)
 - 📧 [naveenkumarmasabathula7@gmail.com](mailto:naveenkumarmasabathula7@gmail.com)
-- 🐙 [GitHub](https://github.com/yourusername)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐙 [GitHub](https://github.com/Naveenkumarmasabathula)
+- 💼 [LinkedIn](https://www.linkedin.com/in/masabathulanaveenkumar/)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/your-portfolio/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Naveenkumarmasabathula/Portfolio).
 
 ## ⭐ Show Your Support
 
