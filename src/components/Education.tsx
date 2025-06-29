@@ -9,8 +9,6 @@ const Education = () => {
       location: "Etcherla",
       period: "2023 - 2027",
       gpa: "9.0/10.0",
-      description: "Comprehensive study in computer systems, programming languages, and software development methodologies.",
-      achievements: ["Magna Cum Laude", "Programming Club President", "Hackathon Winner"]
     },
     {
       degree: "Pre-University Course",
@@ -18,8 +16,6 @@ const Education = () => {
       location: "Etcherla",
       period: "2021 - 2023",
       gpa: "9.8/10.0",
-      description: "Focus on STEM subjects with advanced placement courses in Mathematics and Computer Science.",
-      achievements: ["Valedictorian", "National Honor Society", "Computer Science Excellence Award"]
     }
   ];
 
@@ -67,9 +63,7 @@ const Education = () => {
                       <span>GPA: {edu.gpa}</span>
                     </div>
                   </div>
-                  
-                  <p className="text-gray-700 mb-4 leading-relaxed">{edu.description}</p>
-                  
+                                    
                   <div className="space-y-2">
                     {/* <h5 className="font-semibold text-gray-900">Key Achievements:</h5> */}
                     {/* <div className="flex flex-wrap gap-2">

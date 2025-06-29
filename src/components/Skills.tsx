@@ -37,9 +37,9 @@ const Skills = () => {
     {
       title: "DevOps & Tools",
       skills: [
-        { name: "Hoppscotch", level: 82, icon: Cloud, color: "from-orange-500 to-red-500" },
+        { name: "Hoppscotch", level: 82, icon: Cpu, color: "from-orange-500 to-red-500" },
         { name: "Git/GitHub", level: 90, icon: GitBranch, color: "from-gray-600 to-gray-700" },
-        { name: "Vercel/Render", level: 75, icon: Cpu, color: "from-blue-400 to-blue-600" }
+        { name: "Vercel/Render", level: 75, icon: Cloud, color: "from-blue-400 to-blue-600" }
       ]
     },
     {
